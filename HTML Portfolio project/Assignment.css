@@ -1,0 +1,9 @@
+th, td {
+    border-bottom: 5px solid black;
+    text-align: left;
+    padding: 10px;
+}
+tr:hover {
+    background-color: blue;
+    color: white;
+}
